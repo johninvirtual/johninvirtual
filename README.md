@@ -2,13 +2,13 @@
 #### @johninvirtual
 
 #### Full Stack Web
-##### React | Svelte | Django
+React | Svelte | Django
 
 #### Mechanical Engineer
-##### Product Design | Visualization
+Product Design | Visualization
 
 #### Programmer
-##### Python | JS | C
+Python | JS | C
 
 <!--
 **johninvirtual/johninvirtual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
