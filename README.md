@@ -1,14 +1,13 @@
-### John Marshal A.K.A John Wayne 
-#### @johninvirtual
+### John Marshal A.K.A John Wayne @johninvirtual
 
-#### Full Stack Web
+###### Full Stack Web
 React | Svelte | Django
 
-#### Mechanical Engineer
-Product Design | Visualization
-
-#### Programmer
+###### Programmer
 Python | JS | C
+
+###### Mechanical Engineer
+Product Design | Visualization
 
 <!--
 **johninvirtual/johninvirtual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
