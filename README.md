@@ -1,4 +1,5 @@
 ### John Marshal A.K.A John Wayne @johninvirtual
+![Twitter Follow](https://img.shields.io/twitter/follow/johninvirtual?label=Follow%20me&style=social)
 
 ###### Full Stack Web
 React | Svelte | Django
